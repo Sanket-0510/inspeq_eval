@@ -1,10 +1,10 @@
 inspeqai
 streamlit
-langchain.text_splitter 
-langchain.chains.question_answering
-langchain.prompts
+langchain 
+langchain-community 
+langchainhub 
+langchain-openai 
+langchain-chroma 
+bs4
 langchain_google_genai 
-langchain_community.vectorstores 
 google.generativeai 
-langchain_google_genai
-inspeq.client 
