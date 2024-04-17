@@ -1,6 +1,5 @@
 inspeqai
 streamlit
-dotenv
 langchain.text_splitter 
 langchain.chains.question_answering
 langchain.prompts
